@@ -3,4 +3,4 @@ This repository shows data_professional.xlsx dataset from [Alex The Analyst repo
 
 * The raw data is in the [[data_professional.xlsx]](https://github.com/maryisabela15/Data_Survey_Power_BI/blob/main/data_professional.xlsx) file. 
 
-* The report shows some useful information about the cara dataset and you can see it in the [[car_price_report.pbix]](https://github.com/maryisabela15/Power-BI-Reports/blob/main/car_price_report.pbix) file.
+* The report shows some useful information about the cara dataset and you can see it in the [[Data_Professional_Survey.pbix]](https://github.com/maryisabela15/Data_Survey_Power_BI/blob/main/Data_Professional_Survey.pbix) file.
